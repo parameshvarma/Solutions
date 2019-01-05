@@ -1,0 +1,2 @@
+# Solutions
+Implementing my thoughts.
